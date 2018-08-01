@@ -17,7 +17,7 @@
 
 思路：题面的gif已经表示的很清楚了，然后观察一下样例，可以找到递推式$ans[i][j] = ans[i-1][j]+ans[i-1][j-1]$，然后考虑一下边界条件就可以写出来了。
 
-**代码：**[CPP](https://github.com/15zhazhahe/Interview-Notebook/blob/master/LeetCode/Array/code/CPP/code/pascals-triangle.cpp)&nbsp;&nbsp;&nbsp;&nbsp;[Python](https://github.com/15zhazhahe/Interview-Notebook/blob/master/LeetCode/Array/code/Python/pascals-triangle.py)
+**代码：**[CPP](https://github.com/15zhazhahe/Interview-Notebook/blob/master/LeetCode/Array/code/CPP/pascals-triangle.cpp)&nbsp;&nbsp;&nbsp;&nbsp;[Python](https://github.com/15zhazhahe/Interview-Notebook/blob/master/LeetCode/Array/code/Python/pascals-triangle.py)
 
 ## 【EASY】566. 重塑矩阵（Reshape the Matrix）
 
